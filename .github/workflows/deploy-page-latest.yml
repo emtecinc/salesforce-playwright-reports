@@ -1,0 +1,9 @@
+name: Trigger Centralized Deploy
+
+on:
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  deploy-via-centralized:
+    uses: emtecinc/centralizedworkflow/.github/workflows/salesforce-playwright-reports-deploy.yml@main
+    secrets: inherit
