@@ -1,1 +1,1 @@
-[{"uid":"97cdedca662c27b5","name":"should create event, verify as Support Manager, reassign to admin, and verify @regression","time":{"start":1777017129271,"stop":1777017235038,"duration":105767},"status":"failed","severity":"normal"}]
+[{"uid":"f46df2ec430efc76","name":"should create opportunity with required fields @smoke","time":{"start":1777025190717,"stop":1777025202666,"duration":11949},"status":"passed","severity":"normal"}]
