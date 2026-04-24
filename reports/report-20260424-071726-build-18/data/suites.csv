@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","106807","should create event, verify as Support Manager, reassign to admin, and verify @regression","chromium","2026-04-24","failed","2026-04-24","Event Creation, Calendar Verification, and Reassignment @regression","event/create-event-global-action-calendar-reassign.spec.ts","",""
