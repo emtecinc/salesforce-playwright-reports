@@ -1,9 +1,0 @@
-[SalesforceConnection] JWT token generated.
-[SalesforceConnection] Authenticated as sujitkumar.gaikwad.c3e5d21c12b6@agentforce.com (instance: https://orgfarm-c3f45fc810-dev-ed.develop.my.salesforce.com)
-[ImpersonationHelper] Logging in as "Support Manager"…
-[ImpersonationHelper] Using base URL: https://orgfarm-c3f45fc810-dev-ed.develop.lightning.force.com
-[ImpersonationHelper] Looking for user with names: Support Manager | Manager, Support
-✅ No records to clean up
-[ImpersonationHelper] Name variant "Support Manager" not found, trying next…
-[ImpersonationHelper] Found user "Manager, Support" with Login link.
-[ImpersonationHelper] Post-login origin: https://orgfarm-c3f45fc810-dev-ed.develop.my.salesforce-setup.com. Navigating to Lightning home…
