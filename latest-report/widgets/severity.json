@@ -1,1 +1,1 @@
-[{"uid":"e4e188751681d376","name":"should create event, verify as Support Manager, reassign to admin, and verify @regression","time":{"start":1777015579644,"stop":1777015684674,"duration":105030},"status":"failed","severity":"normal"}]
+[{"uid":"97cdedca662c27b5","name":"should create event, verify as Support Manager, reassign to admin, and verify @regression","time":{"start":1777017129271,"stop":1777017235038,"duration":105767},"status":"failed","severity":"normal"}]
