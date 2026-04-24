@@ -1,1 +1,1 @@
-[{"uid":"2a03a3d8bc50052","name":"should create event, verify as Support Manager, reassign to admin, and verify @regression","time":{"start":1777026352965,"stop":1777026394584,"duration":41619},"status":"failed","severity":"normal"}]
+[{"uid":"bde26377bf39e4a3","name":"should change account owner via user impersonation and verify ownership transfer","time":{"start":1777028787329,"stop":1777028797738,"duration":10409},"status":"failed","severity":"normal"}]
