@@ -1,1 +1,1 @@
-[{"uid":"85c6cb38f096da4d","name":"should create opportunity with required fields @smoke","time":{"start":1777269318320,"stop":1777269333102,"duration":14782},"status":"passed","severity":"normal"}]
+[{"uid":"5178d901862dbfc0","name":"should change account owner via user impersonation and verify ownership transfer","time":{"start":1777270037928,"stop":1777270102360,"duration":64432},"status":"failed","severity":"normal"}]

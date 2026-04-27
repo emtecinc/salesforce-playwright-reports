@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","64432","should change account owner via user impersonation and verify ownership transfer","chromium","2026-04-27","failed","2026-04-27","Account Owner Change - Impersonation and Ownership Transfer","account/change-account-owner-impersonation.spec.ts","",""
