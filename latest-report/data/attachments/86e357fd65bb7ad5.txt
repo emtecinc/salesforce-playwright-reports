@@ -1,0 +1,10 @@
+Failed to close feature discovery composer: locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).getByRole('button', { name: 'Close', exact: true }).or(locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).locator('button.closeButton')).or(locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).locator('button[title="Close"]')).or(locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).locator('.closeButton')).first()
+    - locator resolved to <button type="button" title="Close" data-aura-rendered-by="1083:0" class="slds-button slds-button_icon closeButton slds-m-left_xx-small slds-p-around_xx-small slds-button_icon-bare">…</button>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+  - element was detached from the DOM, retrying
+
+Attempt 0 failed, retrying...
+Attempt 1 failed, retrying...
