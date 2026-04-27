@@ -1,0 +1,19 @@
+Failed to close feature discovery composer: locator.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).getByRole('button', { name: 'Close', exact: true }).or(locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).locator('button.closeButton')).or(locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).locator('button[title="Close"]')).or(locator('div[role="dialog"].slds-docked-composer').filter({ has: locator('.forceFeatureDiscoveryDockedContent') }).locator('.closeButton')).first()
+
+Failed to dismiss floating panel: locator.click: Timeout 12000ms exceeded.
+Call log:
+  - waiting for locator('div[role="dialog"].uiPanel--floatingPanel').filter({ has: locator('one-floating-panel-content') }).filter({ has: locator('h2, .slds-popover_prompt__heading').filter({ hasText: /Try|Try the new Salesforce Setup|Salesforce Go|new Salesforce Setup/i }) }).getByRole('button', { name: 'Dismiss', exact: true }).or(locator('div[role="dialog"].uiPanel--floatingPanel').filter({ has: locator('one-floating-panel-content') }).filter({ has: locator('h2, .slds-popover_prompt__heading').filter({ hasText: /Try|Try the new Salesforce Setup|Salesforce Go|new Salesforce Setup/i }) }).locator('lightning-button.dismiss button')).or(locator('div[role="dialog"].uiPanel--floatingPanel').filter({ has: locator('one-floating-panel-content') }).filter({ has: locator('h2, .slds-popover_prompt__heading').filter({ hasText: /Try|Try the new Salesforce Setup|Salesforce Go|new Salesforce Setup/i }) }).locator('button').filter({ hasText: /Dismiss/i })).first()
+    - locator resolved to <button type="button" part="button" lwc-40a585din3p="" aria-disabled="false" class="slds-button slds-button_inverse">Dismiss</button>
+  - attempting click action
+    - waiting for element to be visible, enabled and stable
+    - element is not stable
+  - retrying click action
+    - waiting for element to be visible, enabled and stable
+  - element was detached from the DOM, retrying
+
+Attempt 0 failed, retrying...
+Attempt 1 failed, retrying...
+Attempt 2 failed, retrying...
+Failed to click account link: Test_Account_1777294897562
